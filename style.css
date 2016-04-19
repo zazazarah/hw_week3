@@ -1,0 +1,171 @@
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: normal;
+}
+
+.container {
+	width: 960px;
+	height: 1500px;
+	/*border: #000 1px solid;*/
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	font-size: 45px;
+	color: #f30000;
+	margin-left: 40px;
+}
+
+.sub-head {
+	font-size: 25px;
+	color: #888;
+	margin-left: 10px;
+}
+
+.top-nav {
+	float:left;
+    width:15%;
+    box-sizing:border-box;
+    color: #FFF;
+    background-color: #000;
+    font-size: 18px;
+    padding: 10px;
+    border-right: #FFF 1px solid;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.date {
+	color: #ccc;
+	font-size: 30px;
+	margin-left: 40px;
+	margin-bottom: 20px;
+	font-weight: normal;
+}
+
+.blog-title {
+	margin-left: 40px;
+	font-color: #000;
+	font-size: 35px;
+	font-weight: normal;
+
+}
+
+.photo {
+	margin-left: 40px;
+	margin-bottom: 20px;
+	width: 600px;
+
+}
+
+.blog-content {
+	color: #a1a1a1;
+	margin-left: 40px;
+	width: 600px;
+	font-size: 15px;
+
+}
+
+p::first-letter {
+	color: #ddd;
+	font-size: 80px;
+	float: left;
+	padding-right: 10px;
+	line-height: 
+}
+
+.read-more {
+	color: #f30000;
+	font-weight: bold;
+	margin-left: 55%;
+	margin-top: 2em;
+}
+
+a {
+	color: #f30000;
+	text-decoration: none;
+}	
+
+a:hover {
+	text-decoration: underline;
+	color: #f30000;
+}
+
+.divider {
+	margin-left: 40px;
+	width: 600px;
+	border-top: #ddd 1px solid;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.footer-nav li {
+	display: inline;
+	list-style: block;
+	border-right: #bbb 1px solid;
+	padding-left: 3px;
+	padding-right: 3px;
+	color: #f30000;
+	font-size: 14px;
+}
+
+.footer-nav li:last-child {
+	border: none;
+}
+
+#credit {
+	color: #bbb;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+
+.sidebar-1 {
+	width:30%;
+    height:500px;
+    /*border:#000 1px solid;*/
+    float: right;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+.side-title {
+	color: #888;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.about-info {
+	margin-top: 10px;
+	font-weight: normal;
+	width: 250px;
+}
+
+.side-divider {
+	width: 250px;
+	border-top: #ddd 1px solid;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.sidebar-ad {
+	width: 250px;
+	height: 250px;
+	background-color: #ccc;
+}
+
+#ad-text {
+	font-size: 50px;
+	font-family: serif;
+}
+
+.sidebar-list li {
+	padding-left: 3px;
+	padding-right: 3px;
+	color: #888;
+	font-size: 14px;
+}
+
+.sidebar-list {
+	color: #888;
+}
