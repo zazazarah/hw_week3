@@ -92,6 +92,16 @@ a:hover {
 	color: #f30000;
 }
 
+.top-nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.top-nav a:hover {
+	text-decoration: underline;
+	color: #fff;
+}
+
 .divider {
 	margin-left: 40px;
 	width: 600px;
