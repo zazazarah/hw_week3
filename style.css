@@ -167,6 +167,9 @@ a:hover {
 #ad-text {
 	font-size: 50px;
 	font-family: serif;
+	padding-top: 90px;
+	padding-left: 90px;
+	color: #969696;
 }
 
 .sidebar-list li {
